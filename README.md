@@ -1,7 +1,5 @@
 # SCSA
 
-[//]: # (This repo is the official of implementation of "[SCSA: Exploring the Synergistic Effects Between Spatial and Channel Attention]&#40;https://arxiv.org/pdf/2407.05128&#41;".)
-
 ## Introduction
 
 In this paper, starting from the synergy of multi-semantic information, we propose a plug-and-play Spatial and Channel Synergistic Attention module(SCSA).
@@ -70,32 +68,3 @@ We will open source the relevant model weights later.
 ## Acknowledgement
 The code in this repository is developed based on the [MMPretrain](https://github.com/open-mmlab/mmpretrain). Furthermore, the detection and segmentation tasks involved in this work are implemented based on the [MMDetection](https://github.com/open-mmlab/mmdetection) and [MMSegmentation](https://github.com/open-mmlab/mmsegmentation).
 
-[//]: # (## Cite SCSA)
-
-[//]: # (If you find this repository useful, please use the following BibTeX entry for citation.)
-
-[//]: # (```latex)
-
-[//]: # (@article{si2024SCSA,)
-
-[//]: # (  title={SCSA: Exploring the Synergistic Effects Between Spatial and Channel Attention},)
-
-[//]: # (  author={Si, Yunzhong and Xu, Huiying and Zhu, Xinzhong and Zhang, Wenhao and Dong, Yao and Chen, Yuxing and Li, Hongbo},)
-
-[//]: # (  journal={arXiv preprint arXiv:2407.05128},)
-
-[//]: # (  year={2024})
-
-[//]: # (})
-
-[//]: # (```)
-
-[//]: # ()
-[//]: # (## Concat)
-
-[//]: # (If you have any questions, please feel free to contact the authors.)
-
-[//]: # ()
-[//]: # (Yunzhong Si: )
-
-[//]: # ([siyunzhong@zjnu.edu.cn]&#40;mailto:iyunzhong@zjnu.edu.cn&#41;)
