@@ -65,6 +65,3 @@ python tools\test.py work_dirs\resnet50_1xb128_in1k_scsa.py path_to_checkpoint -
 ## Results
 We will open source the relevant model weights later.
 
-## Acknowledgement
-The code in this repository is developed based on the [MMPretrain](https://github.com/open-mmlab/mmpretrain). Furthermore, the detection and segmentation tasks involved in this work are implemented based on the [MMDetection](https://github.com/open-mmlab/mmdetection) and [MMSegmentation](https://github.com/open-mmlab/mmsegmentation).
-
